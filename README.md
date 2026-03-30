@@ -53,3 +53,5 @@ public class OrderTest {
 }
 
 ## UML:
+<img width="2242" height="330" alt="image" src="https://github.com/user-attachments/assets/f75716c9-45fb-408a-b0db-1ea303feb050" />
+
